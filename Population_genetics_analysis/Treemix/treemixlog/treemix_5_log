@@ -1,0 +1,28 @@
+
+TreeMix v. 1.12
+$Revision: 231 $
+
+npop:9 nsnp:1
+Estimating covariance matrix in 0 blocks of size 500
+SEED: 1670392716
+Starting from:
+(JPN:0,(CHN:0,OC:0):0);
+Adding AF [4/9]
+ln(likelihood): nan 
+((CHN:0,OC:0):0,(JPN:0,AF:0):0);
+Adding KOR [5/9]
+ln(likelihood): nan 
+((OC:0,(CHN:0,KOR:0):0):0,(JPN:0,AF:0):0);
+Adding EU [6/9]
+ln(likelihood): nan 
+(((CHN:0,KOR:0):0,(OC:0,EU:0):0):0,(JPN:0,AF:0):0);
+Adding SOJA [7/9]
+ln(likelihood): nan 
+(((KOR:0,(CHN:0,SOJA:0):0):0,(OC:0,EU:0):0):0,(JPN:0,AF:0):0);
+Adding SA [8/9]
+ln(likelihood): nan 
+((((CHN:0,SOJA:0):0,(KOR:0,SA:0):0):0,(OC:0,EU:0):0):0,(JPN:0,AF:0):0);
+Adding ASOHR [9/9]
+ln(likelihood): nan 
+((((SOJA:0,(CHN:0,ASOHR:0):0):0,(KOR:0,SA:0):0):0,(OC:0,EU:0):0):0,(JPN:0,AF:0):0);
+Set root above SOJA
