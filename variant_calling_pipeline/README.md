@@ -88,7 +88,7 @@ The required programs are BWA, SAMTOOLS, VCFTOOLS, BGZIP, and GATK, and all the 
 
 # 6. Contact
 
-jaeyoonkim72@gmail.com
+jaeyoonkim@kribb.re.kr
 
 yycho@kribb.re.kr
 
